@@ -1,0 +1,14 @@
+C:\Users\Angsophea\Documents\ReLearning\task_manager\obj\Debug\net8.0\task_manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angsophea\Documents\ReLearning\task_manager\obj\Debug\net8.0\task_manager.AssemblyInfoInputs.cache
+C:\Users\Angsophea\Documents\ReLearning\task_manager\obj\Debug\net8.0\task_manager.AssemblyInfo.cs
+C:\Users\Angsophea\Documents\ReLearning\task_manager\obj\Debug\net8.0\task_manager.csproj.CoreCompileInputs.cache
+C:\Users\Angsophea\Documents\ReLearning\task_manager\bin\Debug\net8.0\task_manager.exe
+C:\Users\Angsophea\Documents\ReLearning\task_manager\bin\Debug\net8.0\task_manager.deps.json
+C:\Users\Angsophea\Documents\ReLearning\task_manager\bin\Debug\net8.0\task_manager.runtimeconfig.json
+C:\Users\Angsophea\Documents\ReLearning\task_manager\bin\Debug\net8.0\task_manager.dll
+C:\Users\Angsophea\Documents\ReLearning\task_manager\bin\Debug\net8.0\task_manager.pdb
+C:\Users\Angsophea\Documents\ReLearning\task_manager\obj\Debug\net8.0\task_manager.dll
+C:\Users\Angsophea\Documents\ReLearning\task_manager\obj\Debug\net8.0\refint\task_manager.dll
+C:\Users\Angsophea\Documents\ReLearning\task_manager\obj\Debug\net8.0\task_manager.pdb
+C:\Users\Angsophea\Documents\ReLearning\task_manager\obj\Debug\net8.0\task_manager.genruntimeconfig.cache
+C:\Users\Angsophea\Documents\ReLearning\task_manager\obj\Debug\net8.0\ref\task_manager.dll

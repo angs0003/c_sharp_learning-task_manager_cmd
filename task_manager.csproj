@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!-- <EnableDefaultCompileItems>false</EnableDefaultCompileItems> -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- <Compile Include="Core\Models\Task.cs" />
+    <Compile Include="Core\Interfaces\ITaskService.cs" />
+    <Compile Include="Core\Services\TaskService.cs" />
+    <Compile Include="UI\TaskUI.cs" /> -->
+  </ItemGroup>
+
+</Project>
