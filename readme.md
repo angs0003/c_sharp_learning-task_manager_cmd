@@ -5,3 +5,7 @@ A simple command-line app where users can
 - Add, view, update and delete task
 - mark task as complete
 - save tasks to a file (**so data persist**)
+
+
+### Image of Program
+![image](https://github.com/user-attachments/assets/f1760997-68fc-4f26-90cb-57dea9089f5f)
